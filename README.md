@@ -1,5 +1,5 @@
 # CPU-Memory-Monitor
-A shell script to monitor CPU and Memory Usage for a given process id:
+Amonitor CPU and Memory Usage for a given process id:
 
 Use the given process id to get CPU, Memory usage information from /proc system
 Then calculate the usage of CPU and Memory and check if the usage exceed the threshold,
